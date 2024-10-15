@@ -6,7 +6,8 @@
 Senior software engineer with 5 years of experience in scalable microservices, cloud infrastructure, and team leadership. Proven in enhancing system reliability, optimizing resources, and mentoring developers to drive operational efficiency and performance improvement.
 
 ### Projects
-- **Fiverr Backend**: This project implements a backend API for a job platform where contractors can be paid. The main entities in the system are Profiles (which can be either clients or contractors), Contracts, and Jobs.
+- **Fiverr Backend**: This project implements a backend API for a job platform where contractors can be paid. The main entities in the system are Profiles (which can be either clients or contractors), Contracts, and Jobs. [View Project](https://github.com/dushyant0814/fiverr-backend)
+
 - **Portfolio Manager**: A backend service for managing portfolios and trading securities, built using NodeJS, MySQL, Express, and REST API. [View Project](https://github.com/dushyant0814/portfolio-manager-backend)
 - **Deep Learning**: A compilation of small-scale projects to gain deeper insights into deep learning [View Project](https://github.com/dushyant0814/Deep-Learning)
 
