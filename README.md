@@ -1,13 +1,13 @@
 # Dushyant Pratap Singh 👋
 
-👨‍💻 Senior Software Engineer at Grappus | Backend Developer | AI & ML Enthusiast
+👨‍💻 Senior Software Engineer at Grappus | Backend Developer
 
 ### About Me
-As a Senior Software Engineer with extensive experience in backend development and machine learning, I am passionate about building scalable and efficient systems. I specialize in developing AI tools, data-intensive applications, microservices architectures, and innovative deep learning models. My journey in tech led me to contribute significantly to projects that enhance user experience, operational efficiency, and intelligent data analysis.
+Senior software engineer with 5 years of experience in scalable microservices, cloud infrastructure, and team leadership. Proven in enhancing system reliability, optimizing resources, and mentoring developers to drive operational efficiency and performance improvement.
 
 ### Projects
+- **Fiverr Backend**: This project implements a backend API for a job platform where contractors can be paid. The main entities in the system are Profiles (which can be either clients or contractors), Contracts, and Jobs.
 - **Portfolio Manager**: A backend service for managing portfolios and trading securities, built using NodeJS, MySQL, Express, and REST API. [View Project](https://github.com/dushyant0814/portfolio-manager-backend)
-- **SiftHQ**: A tool that automates resume scoring against job descriptions, utilizing NodeJS, MongoDB, FastAPI, and ChatGPT to streamline recruitment processes. [Explore SiftHQ](https://beta.sifthq.app/)
 - **Deep Learning**: A compilation of small-scale projects to gain deeper insights into deep learning [View Project](https://github.com/dushyant0814/Deep-Learning)
 
 ### Achievements
